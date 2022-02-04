@@ -1,0 +1,8 @@
+{
+  "name": "rent-a-car-node-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DanicoSantos/rent-a-car-node-api.git",
+  "author": "Dan Santos <dados.dan.santos@gmail.com>",
+  "license": "MIT"
+}
